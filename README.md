@@ -1,6 +1,6 @@
 <h2><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there!</h2>
 
-👋 I'm a non-traditional software engineer with a background in film making and a dash of experience in sales & marketing.
+👋 I'm a software engineer with a background in filmmaking and a dash of experience in sales & marketing.
 
 💬 I’m currently looking for a SWE role. I'm excited to build products and get things done. If you think I'll be a good fit for your team, let's chat!
 
