@@ -2,7 +2,7 @@
 
 👋 I'm a non-traditional software engineer with a background in film making and a dash of experience in sales & marketing.
 
-💬 I’m currently looking for a SWE role. I'm excited to build and get things done. If you think I'll be a good fit for your team, let's chat!
+💬 I’m currently looking for a SWE role. I'm excited to build products and get things done. If you think I'll be a good fit for your team, let's chat!
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
