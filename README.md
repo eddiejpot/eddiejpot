@@ -7,10 +7,10 @@
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
 
-Frontend: React, Bootstrap, Webpack
-Backend: Node, Express, PostgreSQL, Sequelize
-Cloud: Heroku, AWS S3, Firebase
-Design: Figma, Adobe Creative Suite
+Frontend: React, Bootstrap, Webpack <br />
+Backend: Node, Express, PostgreSQL, Sequelize <br />
+Cloud: Heroku, AWS S3, Firebase <br />
+Design: Figma, Adobe Creative Suite <br />
 
 
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
