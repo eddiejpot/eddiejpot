@@ -6,13 +6,10 @@
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
-const myStack = {
-
-	Frontend: ['React', 'Bootstrap', 'Webpack'],
-	Backend: ['Node', 'Express', 'PostgreSQL', 'Sequelize'],
-	Cloud: ['Heroku', 'AWS S3', 'Firebase'],
-	Design: ['Figma', 'Adobe Creative Suite'],
-};
+Frontend: React, Bootstrap, Webpack
+Backend: Node, Express, PostgreSQL, Sequelize
+Cloud: Heroku, AWS S3, Firebase
+Design: Figma, Adobe Creative Suite
 
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/edward-james-porter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="porter linkedIn profile"/></a> 
